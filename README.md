@@ -1,2 +1,3 @@
 # redusers
-Simple user management app using redis
+Redis User Management application built with nodeJS (Express JS) and redis
+
